@@ -74,12 +74,7 @@ ns = NeighborSampler()
 ns.fit(matrix_small, good.reply)
 pipe = make_pipeline(vectorizer, svd, ns)
 
-"""##Публикация бота в телеграм##
-
-Use this token to access the HTTP API:
-1462564116:AAGZkMbM2e3oljfA8GCZWzoGW0Cf5_MBs4Y
-Keep your token secure and store it safely, it can be used by anyone to control your bot.
-"""
+"""##Публикация бота в телеграм##"""
 
 import telebot
 from secret import TOKEN
