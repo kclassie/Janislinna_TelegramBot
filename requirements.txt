@@ -1,0 +1,4 @@
+pyTelegramBotAPI
+pandas
+nltk
+pymorphy2
