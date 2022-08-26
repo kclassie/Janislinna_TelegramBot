@@ -11,3 +11,4 @@ Janislinna-бот запускается локально, умеет поним
 
 ![Janislinna_bot](https://user-images.githubusercontent.com/57313688/186924964-dd5e025c-18a4-4904-b721-e759f67b4140.gif)
 
+[Aanislinna_Utkina.pdf](https://github.com/kclassie/Janislinna_TelegramBot/files/9433947/Aanislinna_Utkina.pdf)
