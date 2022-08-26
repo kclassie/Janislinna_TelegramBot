@@ -8,5 +8,6 @@ Janislinna-бот запускается локально, умеет поним
 
 Бот обучен на датасете вопросов и ответов (questions.csv).
 
-![](Janislinna_bot.mov)
+
+![Janislinna_bot](https://user-images.githubusercontent.com/57313688/186924964-dd5e025c-18a4-4904-b721-e759f67b4140.gif)
 
